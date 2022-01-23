@@ -1,1 +1,41 @@
 # AWS-Udacity-Capstone-Project
+### Bertelsmann Arvato PROJECT
+#### Summary
+
+The objective of this project is to analyze the data collected by the company in order to optimize the mailing campaigns performed for their customers. The project also helps Arvato see who is likely to be a customer through clustering and comparison of the general public and existing customers.
+
+This project consisted of 3 main steps:
+
+1. Data exploration and cleaning.
+2. Clustering. This helped Arvato  check out how the population characteristics compare to the existing customer characteristics.
+3. Customer conversion through supervised learning, to predict how likely a typical person in the population is likely to convert to a customer.
+
+#### Data Description.
+The data has been provided by Udacity and Arvato Financial Solutions. 
+It contains 4 data files and 2 description files. The description files have information about the features:
+
+1. Customer Segmentation
+    General Population demographics
+    Customer demographics
+2. Customer Acquisition
+    Training data
+    Test data
+3. Description files
+
+#### Project Design
+1. Data exploration
+    Assessing data
+    Cleaning data
+2. Customers segmentation
+    Dimension reduction (PCA)
+    Clustering
+3. Customers Conversion Predictions
+    Prédicting clients responses
+    Training model
+    Make prediction
+    
+#### Dependencies
+1. Python 3.8+
+2. Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+#### Results
+The process has been detailed in the Arvato Project Workbook.ipynb file. Feel free to consult it directly.
