@@ -1,5 +1,4 @@
-# AWS-Udacity-Capstone-Project
-### Bertelsmann Arvato PROJECT
+# AWS-Udacity-Capstone-Project(Arvato Project)
 #### Summary
 
 The objective of this project is to analyze the data collected by the company in order to optimize the mailing campaigns performed for their customers. The project also helps Arvato see who is likely to be a customer through clustering and comparison of the general public and existing customers.
@@ -36,6 +35,6 @@ It contains 4 data files and 2 description files. The description files have inf
     
 #### Dependencies
 1. Python 3.8+
-2. Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+2. Machine Learning Libraries: NumPy, Seaborn, Pandas, Scikit-Learn, Matplotlib.pyplot
 #### Results
 The process has been detailed in the Arvato Project Workbook.ipynb file. Feel free to consult it directly.
