@@ -8,6 +8,7 @@ This project consisted of 3 main steps:
 1. Data exploration and cleaning.
 2. Clustering. This helped Arvato  check out how the population characteristics compare to the existing customer characteristics.
 3. Customer conversion through supervised learning, to predict how likely a typical person in the population is likely to convert to a customer.
+4. Medium Report explaining the project. You can find the medium article here [Medium article](https://mukamikareko.medium.com/arvato-project-customer-segmentation-using-supervised-and-unsupervised-learning-e6ff18ae7c64)
 
 #### Data Description.
 The data has been provided by Udacity and Arvato Financial Solutions. 
